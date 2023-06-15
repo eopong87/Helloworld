@@ -1,0 +1,15 @@
+/Users/nadine/Desktop/Repo/dotnetconsole/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld
+/Users/nadine/Desktop/Repo/dotnetconsole/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/Users/nadine/Desktop/Repo/dotnetconsole/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/Users/nadine/Desktop/Repo/dotnetconsole/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/Users/nadine/Desktop/Repo/dotnetconsole/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/Users/nadine/Desktop/Repo/dotnetconsole/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/nadine/Desktop/Repo/dotnetconsole/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nadine/Desktop/Repo/dotnetconsole/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/nadine/Desktop/Repo/dotnetconsole/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/Users/nadine/Desktop/Repo/dotnetconsole/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/nadine/Desktop/Repo/dotnetconsole/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/Users/nadine/Desktop/Repo/dotnetconsole/HelloWorld/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll
+/Users/nadine/Desktop/Repo/dotnetconsole/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/Users/nadine/Desktop/Repo/dotnetconsole/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
+/Users/nadine/Desktop/Repo/dotnetconsole/HelloWorld/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
